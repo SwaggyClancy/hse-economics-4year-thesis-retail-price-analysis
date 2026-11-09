@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+data/input/*
+!data/input/product_links.example.csv
+output/
